@@ -21,6 +21,9 @@ src:url("CHOPS___.ttf");
 	/*from{width: 30%;}
 	to{width: 50%;}*/
 }
+.container-fluid{
+	background-color: #f9f9f9;
+}
 body{
 	text-align: justify;
 	margin: 5%;
